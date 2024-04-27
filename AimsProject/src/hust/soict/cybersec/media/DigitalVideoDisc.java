@@ -8,7 +8,7 @@ public class DigitalVideoDisc extends Disc implements Playable{
 		this.setCategory(category);
 		this.setDirector(director);
 		this.setLength(length);
-		this.setCost(cost);
+		this.setCost(cost); 
 	}
 	
 	// toString method for DigitalVideoDisc class
