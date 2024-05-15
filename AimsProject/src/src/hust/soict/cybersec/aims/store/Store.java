@@ -11,7 +11,7 @@ public class Store {
 			itemsInStore.add(media);
 			System.out.println("The media " + media.getTitle() + " has been added to the store");
 		} else {
-			System.out.println("The store is full"); 
+			System.out.println("The store is full");
 		}
 	}
 	
