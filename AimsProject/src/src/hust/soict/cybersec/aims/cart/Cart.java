@@ -12,7 +12,7 @@ class MediaComparatorByCostTitle implements Comparator<Media>{
 		else if(compare > 0) {
 			return 1;
 		}
-		return media1.getTitle().compareTo(media2.getTitle()); 
+		return media1.getTitle().compareTo(media2.getTitle());
 	}
 }
 
